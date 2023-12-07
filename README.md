@@ -1,5 +1,7 @@
 ### Hello World 👋
 
+<img style="margin: 10px;" src="https://github.com/matthias-wortmann/matthias-wortmann/assets/114675886/1320ab14-7a0f-466f-92cd-3cac68b0c6f8" alt="React" height="500" />
+
 Here's a glimpse into what I'm passionate about and my journey so far:
 
 - 🔭 I’m currently engrossed in developing an AI-powered WhatsApp-based digital health chatbot for my Master's thesis. This project combines my interests in technology, health, and user-centric design.
