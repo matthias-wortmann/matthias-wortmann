@@ -1,6 +1,5 @@
 ### Hello World 👋
-
-<img style="margin: 10px;" src="https://github.com/matthias-wortmann/matthias-wortmann/assets/114675886/1320ab14-7a0f-466f-92cd-3cac68b0c6f8" alt="React" height="500" />
+![Git_Hub](https://github.com/matthias-wortmann/matthias-wortmann/assets/114675886/5014202e-035a-4728-af50-1d8f89e8d9ee)
 
 Here's a glimpse into what I'm passionate about and my journey so far:
 
